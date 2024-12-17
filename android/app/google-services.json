@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "599671506042",
+    "firebase_url": "https://perwira-store-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "perwira-store",
+    "storage_bucket": "perwira-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599671506042:android:03f8e52f9e5ac74afe67c3",
+        "android_client_info": {
+          "package_name": "com.example.perwirastoremanage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMTpON0vRAv5-6vNlXYe2PYhSPfFkz89s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
